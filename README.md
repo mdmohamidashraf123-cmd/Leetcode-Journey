@@ -8,6 +8,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,8 +19,13 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
