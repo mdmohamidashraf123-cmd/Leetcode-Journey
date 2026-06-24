@@ -45,4 +45,12 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
