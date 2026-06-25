@@ -54,6 +54,7 @@ In this repository I will be sharing my leetcode progress
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ In this repository I will be sharing my leetcode progress
 | [0151-reverse-words-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
