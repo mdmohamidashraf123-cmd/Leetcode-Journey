@@ -14,6 +14,7 @@ In this repository I will be sharing my leetcode progress
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ In this repository I will be sharing my leetcode progress
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0242-valid-anagram) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ In this repository I will be sharing my leetcode progress
 | [0242-valid-anagram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -88,4 +91,12 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
