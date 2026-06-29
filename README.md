@@ -50,6 +50,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -99,4 +100,16 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
