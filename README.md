@@ -11,6 +11,7 @@ In this repository I will be sharing my leetcode progress
 | [0054-spiral-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
@@ -101,6 +102,7 @@ In this repository I will be sharing my leetcode progress
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -127,4 +129,8 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
