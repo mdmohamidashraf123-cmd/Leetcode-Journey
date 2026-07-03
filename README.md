@@ -13,6 +13,7 @@ In this repository I will be sharing my leetcode progress
 | [0074-search-a-2d-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -24,6 +25,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
