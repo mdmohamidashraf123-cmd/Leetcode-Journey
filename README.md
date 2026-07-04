@@ -7,6 +7,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -146,5 +147,6 @@ In this repository I will be sharing my leetcode progress
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
