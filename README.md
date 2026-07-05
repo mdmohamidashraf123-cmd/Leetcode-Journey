@@ -7,6 +7,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0054-spiral-matrix) |
@@ -25,6 +26,7 @@ In this repository I will be sharing my leetcode progress
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
