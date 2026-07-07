@@ -152,4 +152,8 @@ In this repository I will be sharing my leetcode progress
 | [0046-permutations](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
