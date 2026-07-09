@@ -11,6 +11,7 @@ In this repository I will be sharing my leetcode progress
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
@@ -46,6 +47,7 @@ In this repository I will be sharing my leetcode progress
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
@@ -130,6 +132,7 @@ In this repository I will be sharing my leetcode progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
