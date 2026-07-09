@@ -8,6 +8,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
@@ -75,6 +76,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0125-valid-palindrome) |
