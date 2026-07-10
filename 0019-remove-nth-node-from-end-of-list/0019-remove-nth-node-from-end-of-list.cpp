@@ -21,14 +21,6 @@ public:
         if(!head->next){
             head=nullptr;
             return head;
-        }else if(!fast->next->next){
-             if(n==1){
-                head->next=nullptr;
-                return head;
-             }else{
-                head=head->next;
-                return head;
-             }
         }
         bool a=false;
         while(temp){
