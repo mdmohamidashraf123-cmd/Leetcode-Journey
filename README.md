@@ -26,6 +26,7 @@ In this repository I will be sharing my leetcode progress
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ In this repository I will be sharing my leetcode progress
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +67,7 @@ In this repository I will be sharing my leetcode progress
 | [0242-valid-anagram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0409-longest-palindrome) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +76,7 @@ In this repository I will be sharing my leetcode progress
 | [0326-power-of-three](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
