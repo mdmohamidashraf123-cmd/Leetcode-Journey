@@ -104,6 +104,7 @@ In this repository I will be sharing my leetcode progress
 | [0344-reverse-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -121,6 +122,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
