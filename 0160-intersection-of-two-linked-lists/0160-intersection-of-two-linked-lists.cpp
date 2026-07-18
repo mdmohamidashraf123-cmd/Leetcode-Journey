@@ -11,16 +11,28 @@ public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         ListNode* tempa=headA;
         ListNode* tempb=headB;
+        unordered_map<ListNode*,int>m;
         while(tempa){
-            while(tempb){
-             if(tempa==tempb){
-                return tempa;
-             }
-             tempb=tempb->next;
-            }
-            tempb=headB;
+            m[tempa]++;
             tempa=tempa->next;
         }
+        while(tempb){
+            m[tempb]++;
+            if(m[tempb]>1){
+                return tempb;
+            }
+            tempb=tempb->next;
+        }
+        // while(tempa){
+        //     while(tempb){
+        //      if(tempa==tempb){
+        //         return tempa;
+        //      }
+        //      tempb=tempb->next;
+        //     }
+        //     tempb=headB;
+        //     tempa=tempa->next;
+        // }
         return nullptr;
     }
 };
