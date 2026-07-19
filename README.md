@@ -74,6 +74,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -146,6 +147,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -163,6 +165,7 @@ In this repository I will be sharing my leetcode progress
 | [0050-powx-n](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0394-decode-string) |
