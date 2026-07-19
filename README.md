@@ -106,6 +106,7 @@ In this repository I will be sharing my leetcode progress
 | [0205-isomorphic-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0796-rotate-string) |
@@ -133,6 +134,7 @@ In this repository I will be sharing my leetcode progress
 | [0020-valid-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -163,6 +165,7 @@ In this repository I will be sharing my leetcode progress
 | [0203-remove-linked-list-elements](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
