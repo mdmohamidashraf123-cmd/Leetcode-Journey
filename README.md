@@ -58,6 +58,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0054-spiral-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ In this repository I will be sharing my leetcode progress
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +152,7 @@ In this repository I will be sharing my leetcode progress
 | [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -172,6 +175,7 @@ In this repository I will be sharing my leetcode progress
 | [0326-power-of-three](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
