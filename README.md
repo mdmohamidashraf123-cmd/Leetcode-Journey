@@ -211,5 +211,6 @@ In this repository I will be sharing my leetcode progress
 | [0160-intersection-of-two-linked-lists](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
