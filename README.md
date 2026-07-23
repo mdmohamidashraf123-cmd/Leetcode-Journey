@@ -92,6 +92,7 @@ In this repository I will be sharing my leetcode progress
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
@@ -208,6 +209,7 @@ In this repository I will be sharing my leetcode progress
 | [0061-rotate-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
