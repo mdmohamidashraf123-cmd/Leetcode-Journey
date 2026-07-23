@@ -34,51 +34,22 @@ public:
         }
         Node* temp=head;
         Node* c=temp;
-        unordered_map<Node*,int>q;
-        int a=0;
-        while(temp){
-            while(c){
-                a++;
-                if(c==temp->random){
-                  q[temp]=a;
-                  break;
-                }else{
-                    q[temp]=a+1;
-                }
-                c=c->next;
-            }
-            c=head;
-            a=0;
-            temp=temp->next;
-        }
+        unordered_map<Node*,Node*>q;
         temp=head;
         c=dn;
         Node* y;
         while(temp){
             y=new Node(temp->val);
+            q[temp]=y;
             c->next=y;
             c=c->next;
             temp=temp->next;
         }
         c->next=nullptr;
-        b=dn->next;
         c=dn->next;
         temp=head;
-        a=0;
-        // b=head;
         while(c){
-            while(b){
-                a++;
-                if(a==q[temp]){
-                    c->random=b;
-                    break;
-                }else{
-                    c->random=nullptr;
-                }
-                b=b->next;
-            }
-            a=0;
-            b=dn->next;
+            c->random=q[temp->random];
             c=c->next;
             temp=temp->next;
         }
