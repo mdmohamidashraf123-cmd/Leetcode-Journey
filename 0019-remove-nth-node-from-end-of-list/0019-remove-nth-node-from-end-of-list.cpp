@@ -14,48 +14,28 @@ public:
         ListNode* temp=head;
         ListNode* fast=head;
         int count=0;
-        int c=0;
         if(!head){
             return head;
         }
         if(!head->next){
             head=nullptr;
             return head;
-        }else if(!fast->next->next){
-             if(n==1){
-                head->next=nullptr;
-                return head;
-             }else{
-                head=head->next;
-                return head;
-             }
         }
-        bool a=false;
-        while(temp){
-            if(!a){
-             count++;
-            }else{  
-             if(n==count){
-                     head=head->next;
-                     break;
-              }
-             if(c==count-n-1){
-                 if(temp && temp->next){
-                  ListNode* t=temp->next->next;
-                // delete temp->next;
-                  temp->next=t;
-                 }
-                 break;
-            }
-            c++;
-            }
+        for (int i = 0; i < n; i++) {
+           fast = fast->next;
+        }
+        if(!fast){
+            head=head->next;
+            return head;
+        }
+        temp=head;
+        while(fast && fast->next){
+            fast=fast->next;
             temp=temp->next;
-            if(!temp){
-                a=true;
-                temp=head;
-            }
-
-        }
+        } 
+        ListNode* t=temp->next;
+        temp->next=t->next;
+        delete t;
         return head;
     }
 };
