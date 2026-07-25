@@ -16,19 +16,28 @@ public:
         }
         ListNode* temp=head;
         ListNode* prev=nullptr;
-        while(temp){
-            ListNode*f=new ListNode(temp->val);
-            f->next=prev;
-            prev=f;
-            temp=temp->next;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        ListNode* c;
+        while(fast && fast->next){
+            c=slow;
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        temp=head;
-        while(prev&& temp){
-            if(prev->val!=temp->val){
+        c->next=nullptr;
+        //reverse half of the list
+        while(slow){
+            ListNode* a=slow->next;
+            slow->next=prev;
+            prev=slow;
+            slow=a;
+        }
+        while(temp && prev){
+            if(temp->val!=prev->val){
                 return false;
             }
-            prev=prev->next;
             temp=temp->next;
+            prev=prev->next;
         }
         return true;
         
