@@ -15,19 +15,20 @@ public:
             return true;
         }
         ListNode* temp=head;
-        vector<int>a;
+        ListNode* prev=nullptr;
         while(temp){
-            a.push_back(temp->val);
+            ListNode*f=new ListNode(temp->val);
+            f->next=prev;
+            prev=f;
             temp=temp->next;
         }
-        int st=0;
-        int end=a.size()-1;
-        while(st<=end){
-            if(a[st]!=a[end]){
+        temp=head;
+        while(prev&& temp){
+            if(prev->val!=temp->val){
                 return false;
             }
-            st++;
-            end--;
+            prev=prev->next;
+            temp=temp->next;
         }
         return true;
         
