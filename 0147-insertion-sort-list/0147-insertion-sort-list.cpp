@@ -14,41 +14,18 @@ public:
         if(!head ||!head->next){
             return head;
         }
-        ListNode* temp=head->next;
-        ListNode* p=head;
+        ListNode* dummy=new ListNode(0);
+        ListNode* temp=head;
         while(temp){
-            ListNode* n=temp->next;
-            ListNode* prev=nullptr;
-            ListNode* cn=head;
-            while(cn && cn!=temp){
-              if(cn->val>temp->val){
-               if(prev){
-                if(cn->next==temp){
-                    cn->next=temp->next;
-                }else{
-                    p->next=temp->next;
-                }
-                prev->next=temp;
-                temp->next=cn;
-               }else{
-                head=temp;
-                if(cn->next==temp){
-                 cn->next=temp->next;
-                }else{ 
-                  p->next=temp->next;
-                }
-                temp->next=cn;
-               }
-               break;
-              }
-              prev=cn;
-              cn=cn->next;
+            ListNode* c=temp->next;
+            ListNode* prev=dummy;
+            while(prev->next!=nullptr && prev->next->val<temp->val){
+                prev=prev->next;
             }
-            if(cn==temp){
-             p=temp;
-            }
-            temp=n;
+            temp->next=prev->next;
+            prev->next=temp;
+            temp=c;
         }
-        return head;
+        return dummy->next;
     }
 };
