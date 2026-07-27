@@ -14,60 +14,52 @@ public:
         ListNode* temp=l1;
         ListNode*prev=nullptr;
         ListNode* t=l2;
+        stack<int>s1;
+        stack<int>s2;
         while(temp){
-            ListNode* n=temp->next;
-            temp->next=prev;
-            prev=temp;
-            temp=n;
+            s1.push(temp->val);
+            temp=temp->next;
         }
-        ListNode* head1=prev;
-        prev=nullptr;
         while(t){
-            ListNode* n=t->next;
-            t->next=prev;
-            prev=t;
-            t=n;
+            s2.push(t->val);
+            t=t->next;
         }
-        ListNode* head2=prev;
-        temp=head1;
-        t=head2;
-        ListNode* dn=new ListNode(-1);
-        ListNode* a=dn;
         int sum=0;
-        while(temp && t){
-            sum+=temp->val+t->val;
+        ListNode* dn=new ListNode(-1);
+        ListNode* a =dn;
+        while(!s1.empty() && !s2.empty()){
+            sum+=s1.top() + s2.top();
+            s1.pop();
+            s2.pop();
             a->next=new ListNode(sum%10);
             a=a->next;
             sum=sum/10;
-            temp=temp->next;
-            t=t->next;
         }
-        while(temp){
-            sum+=temp->val;
+        while(!s1.empty()){
+            sum+=s1.top();
+            s1.pop();
             a->next=new ListNode(sum%10);
             a=a->next;
-            sum=sum/10;
-            temp=temp->next;
+            sum/=10;
         }
-        while(t){
-            sum+=t->val;
+        while(!s2.empty()){
+            sum+=s2.top();
+            s2.pop();
             a->next=new ListNode(sum%10);
             a=a->next;
-            sum=sum/10;
-            t=t->next;
+            sum/=10;
         }
         if(sum>0){
-            a->next=new ListNode(sum);
+            a->next=new ListNode(sum%10);
             a=a->next;
         }
-        a->next=nullptr;
-        ListNode* h= dn->next;
+        a=dn->next;
         prev=nullptr;
-        while(h){
-            ListNode* c=h->next;
-            h->next=prev;
-            prev=h;
-            h=c;
+        while(a){
+            ListNode* c=a->next;
+            a->next=prev;
+            prev=a;
+            a=c;
         }
         return prev;
     }
