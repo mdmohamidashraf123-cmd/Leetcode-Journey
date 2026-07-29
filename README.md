@@ -22,6 +22,7 @@ In this repository I will be sharing my leetcode progress
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0817-linked-list-components](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -37,6 +38,7 @@ In this repository I will be sharing my leetcode progress
 | [0162-find-peak-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
@@ -72,6 +74,7 @@ In this repository I will be sharing my leetcode progress
 | [0205-isomorphic-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0409-longest-palindrome) |
 | [0817-linked-list-components](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0817-linked-list-components) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -109,6 +112,7 @@ In this repository I will be sharing my leetcode progress
 | [0234-palindrome-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -141,6 +145,7 @@ In this repository I will be sharing my leetcode progress
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
 | ------- |
