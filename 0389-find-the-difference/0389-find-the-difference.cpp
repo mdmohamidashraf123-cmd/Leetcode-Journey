@@ -1,16 +1,17 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        int i=0;
-        while(i<s.size()){
-         if(s[i]!=t[i]){
-            return t[i];
-         }
-         i++;
+        unordered_map<char,int>m;
+        for(char i:s){
+            m[i]++;
         }
-        return t[i];
+        for(char i:t){
+            if(m[i]==0){
+                return i;
+            }
+            m[i]--;
+        }
+        return std::string::npos;
 
     }
 };
