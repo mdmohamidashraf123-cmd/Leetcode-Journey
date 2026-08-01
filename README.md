@@ -86,6 +86,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0231-power-of-two) |
