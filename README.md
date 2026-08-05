@@ -80,6 +80,7 @@ In this repository I will be sharing my leetcode progress
 | [0389-find-the-difference](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0409-longest-palindrome) |
 | [0817-linked-list-components](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0817-linked-list-components) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -252,6 +253,7 @@ In this repository I will be sharing my leetcode progress
 | [0445-add-two-numbers-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
 |  |
