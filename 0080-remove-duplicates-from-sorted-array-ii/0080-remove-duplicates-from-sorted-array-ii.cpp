@@ -2,22 +2,16 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         int n=nums.size();
-        unordered_map<int,int>hash;
-        for(int i=0;i<n;i++){
-            hash[nums[i]]++;
+        //use 2 pointer
+        if(n<=2){
+            return n;
         }
-        int idx=0;
-        int i=0;
-        while(i<n){
-            nums[idx]=nums[i];
-            if (hash[nums[i]]>2){
-             idx++;
-             nums[idx]=nums[i];
-             i+=hash[nums[i]];
-            }else{
-                i++;
+        int idx=2;
+        for(int i=2;i<n;i++){
+            if(nums[i]!=nums[idx-2]){
+                nums[idx]=nums[i];
+                idx++;
             }
-            idx++;
         }
         return idx;
     }
