@@ -16,42 +16,25 @@ public:
         }else if(!head->next && head->val==0){
             return nullptr;
         }
-        int sum=0;
+        int psum=0;
+        //in t.c O(n)
         ListNode* temp=head;
-        ListNode* prev=nullptr;
+        ListNode* dn=new ListNode(0);
+        dn->next=head;
+        unordered_map<int,ListNode*>m;
+        temp=dn;
         while(temp){
-          bool f=false;
-          sum+=temp->val;
-          if(sum==0){
-            f=true;
-            if(!prev){
-                head=temp->next;
-            }else{
-                prev->next=temp->next;
-            }
-            temp=temp->next;
-          }else{
-           ListNode* n=temp->next;
-           while(n){
-            sum+=n->val;
-            n=n->next;
-            if(sum==0){
-                f=true;
-                if(prev){
-                    prev->next=n;
-                }else{
-                    head=n;
-                }
-                temp=n;
-            }
-           }
-          }
-          sum=0;
-          if(!f){
-          prev=temp;
+          psum+=temp->val;
+          m[psum]=temp;
           temp=temp->next;
-          }
         }
-        return head;
+        temp=dn;
+        psum=0;
+        while(temp){
+            psum+=temp->val;
+            temp->next=m[psum]->next;
+            temp=temp->next;
+        }
+        return dn->next;
     }
 };
