@@ -18,6 +18,7 @@ In this repository I will be sharing my leetcode progress
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
@@ -107,6 +108,7 @@ In this repository I will be sharing my leetcode progress
 | [0027-remove-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
