@@ -66,6 +66,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0054-spiral-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ In this repository I will be sharing my leetcode progress
 | [0443-string-compression](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -213,6 +215,7 @@ In this repository I will be sharing my leetcode progress
 | [0394-decode-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0779-k-th-symbol-in-grammar) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
