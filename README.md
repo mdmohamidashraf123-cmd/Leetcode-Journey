@@ -10,6 +10,7 @@ In this repository I will be sharing my leetcode progress
 | [0014-longest-common-prefix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0053-maximum-subarray) |
@@ -47,6 +48,7 @@ In this repository I will be sharing my leetcode progress
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -71,6 +73,7 @@ In this repository I will be sharing my leetcode progress
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
