@@ -23,6 +23,7 @@ In this repository I will be sharing my leetcode progress
 | [0088-merge-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -79,6 +80,7 @@ In this repository I will be sharing my leetcode progress
 | [0141-linked-list-cycle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +160,7 @@ In this repository I will be sharing my leetcode progress
 | [0088-merge-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -196,6 +199,7 @@ In this repository I will be sharing my leetcode progress
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
@@ -275,4 +279,8 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0155-min-stack) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
