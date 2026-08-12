@@ -286,4 +286,8 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
