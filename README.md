@@ -21,6 +21,7 @@ In this repository I will be sharing my leetcode progress
 | [0078-subsets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0229-majority-element-ii) |
@@ -97,6 +98,7 @@ In this repository I will be sharing my leetcode progress
 | [0007-reverse-integer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0445-add-two-numbers-ii) |
@@ -175,6 +177,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0394-decode-string) |
