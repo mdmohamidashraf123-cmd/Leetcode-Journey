@@ -34,6 +34,7 @@ In this repository I will be sharing my leetcode progress
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -184,6 +185,7 @@ In this repository I will be sharing my leetcode progress
 | [0445-add-two-numbers-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
 ## Greedy
 |  |
 | ------- |
@@ -274,6 +276,7 @@ In this repository I will be sharing my leetcode progress
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -282,6 +285,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -290,4 +294,12 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
