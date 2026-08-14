@@ -28,6 +28,7 @@ In this repository I will be sharing my leetcode progress
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0817-linked-list-components](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -183,6 +184,7 @@ In this repository I will be sharing my leetcode progress
 | [0234-palindrome-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
@@ -280,6 +282,7 @@ In this repository I will be sharing my leetcode progress
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
