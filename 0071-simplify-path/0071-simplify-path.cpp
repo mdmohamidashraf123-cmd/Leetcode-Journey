@@ -2,64 +2,51 @@ class Solution {
 public:
     string simplifyPath(string path) {
         stack<string>st;
-        int a=0;
+        string ans="";
         int i=0;
+        string k;
         while(i<path.size()){
             if(path[i]=='/'){
-                if(!st.empty() && st.top()=="/"){
-                    st.pop();
-                }
-                st.push("/");
-                while(i<path.size()&& path[i]=='/'){
-                    i++;
-                }
-                continue;
-            }else if(path[i]=='.'){
-                string k;
-                while(i<path.size() && path[i]!='/'){
-                    k.push_back(path[i]);
-                    if(path[i]=='.'){
-                     a++;
+                i++;
+            }else{
+                if(path[i]=='.'){
+                    k="";
+                    int c=0;
+                    int j=i;
+                    while(i<path.size()&& path[i]!='/'){
+                        k.push_back(path[i]);
+                        if(path[i]=='.'){
+                         c++;
+                        }
+                        i++;
                     }
-                    i++;
-                }
-                if(a==2 && path[i-1]=='.'){
-                  int g=0;
-                  while(!st.empty() && g<3 ){
-                    if(!st.empty() && st.top()=="/" && st.size()==1){
-                        break;
-                    }
-                    st.pop();
-                    g++;
-                    
-                   }
-                }else if(a>2){
-                    st.push(k);
-                }else{
-                    if(path[i-1]!='.'){
+                    if(c==i-j){
+                        if(c==2 && !st.empty()){
+                           st.pop();
+                        }else if(c>2){
+                            st.push(k);
+                        }
+                    }else{
                         st.push(k);
                     }
+                }else{
+                    //alphabet
+                    k="";
+                    while(i<path.size()&& path[i]!='/'){
+                        k.push_back(path[i]);
+                        i++;
+                    }
+                    st.push(k);
                 }
-                a=0;
-                continue; 
-            }else{
-                string k;
-                while(i<path.size() && path[i]!='/'){
-                    k.push_back(path[i]);
-                    i++;
-                }
-                st.push(k);
                 continue;
             }
-            i++;
         }
-        if(st.top()=="/" && st.size()>1){
-            st.pop();
+        if(st.empty()){
+            ans="/";
         }
-        string ans="";
         while(!st.empty()){
-           ans=st.top()+ans;
-           st.pop();
+            ans="/"+st.top()+ans;
+            st.pop();
         }
         return ans;
     }
