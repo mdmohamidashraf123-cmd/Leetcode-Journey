@@ -1,28 +1,35 @@
 class Solution {
 public:
+    //SECOND HARD PROBLEM SOLVED ON MY OWN !!
+    //Improve time management
     int trap(vector<int>& height) {
         int n=height.size();
-        stack<int>st;
-        int s=0;
+        int i=0;
+        int j=0;
         int ans=0;
-        for(int i=0;i<n;i++){
-           while(!st.empty() && height[s]<height[i]){
-              ans+=(height[s]-st.top());
-              st.pop();
+        while(j<n){
+            int k=0;
+           while(j<n && i<j && height[j]<height[i]){
+            k+=height[i]-height[j];
+            j++;
            }
-           st.push(height[i]);
-           if(st.size()==1){
-            s=i;
+           if(j==n){
+            k=0;
+            break;
            }
+           ans+=k;
+           i=j;
+           j=i+1;
         }
-        int max=st.top();
-        while(!st.empty()){
-            if(st.top()>max){
-                max=st.top();
-            }else{
-             ans+=max-st.top();
-            }
-            st.pop();
+        j=n-1;
+        int max=height[j];
+        while(j>i){
+          if(height[j]>max){
+            max=height[j];
+          }else{
+            ans+=max-height[j];
+          }
+          j--;
         }
         return ans;
     }
