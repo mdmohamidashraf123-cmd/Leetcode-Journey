@@ -29,6 +29,7 @@ In this repository I will be sharing my leetcode progress
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0817-linked-list-components](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0817-linked-list-components) |
@@ -90,6 +91,7 @@ In this repository I will be sharing my leetcode progress
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0817-linked-list-components) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -194,6 +196,7 @@ In this repository I will be sharing my leetcode progress
 | [0394-decode-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -296,6 +299,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
