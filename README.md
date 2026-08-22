@@ -40,6 +40,7 @@ In this repository I will be sharing my leetcode progress
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2104-sum-of-subarray-ranges](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -204,6 +205,7 @@ In this repository I will be sharing my leetcode progress
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
+| [2104-sum-of-subarray-ranges](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -305,6 +307,7 @@ In this repository I will be sharing my leetcode progress
 | [0496-next-greater-element-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
