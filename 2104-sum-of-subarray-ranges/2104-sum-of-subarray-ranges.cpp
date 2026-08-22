@@ -55,13 +55,17 @@ public:
     long long subArrayRanges(vector<int>& nums) {
         int n=nums.size();
         long long ans=0;
+        vector<int>pse=psee(nums);
+        vector<int>ns=nse(nums);
+        vector<int>pge=pgee(nums);
+        vector<int>ng=nge(nums);
         for(int i=0;i<n;i++){
-            int p=psee(nums)[i];
-            int n=nse(nums)[i];
+            int p=pse[i];
+            int n=ns[i];
             long long m=(i-p)*(n-i);
             ans-=1LL*(nums[i]*m);
-            int x=pgee(nums)[i];
-            int y=nge(nums)[i];
+            int x=pge[i];
+            int y=ng[i];
             long long max=(i-x)*(y-i);
             ans+=1ll*(nums[i]*max);
         }
