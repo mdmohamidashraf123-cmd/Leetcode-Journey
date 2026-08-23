@@ -1,15 +1,16 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        int hash[127]={0};
-        for(char i:s){
-            hash[i]++;
+      queue<int>q;
+      int n=s.size();
+      int hash[127]={0};
+      for(int i=0;i<n;i++){
+        hash[s[i]]++;
+        q.push(i);
+        while(!q.empty() && hash[s[q.front()]]>1){
+            q.pop();
         }
-        for(int i=0;i<s.size();i++){
-            if(hash[s[i]]==1){
-                return i;
-            }
-        }
-        return -1;
+      }
+      return q.empty()? -1 : q.front();
     }
 };
