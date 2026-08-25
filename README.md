@@ -210,6 +210,7 @@ In this repository I will be sharing my leetcode progress
 | [0496-next-greater-element-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
@@ -319,12 +320,14 @@ In this repository I will be sharing my leetcode progress
 | [0402-remove-k-digits](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -341,6 +344,7 @@ In this repository I will be sharing my leetcode progress
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
