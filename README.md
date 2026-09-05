@@ -47,6 +47,7 @@ In this repository I will be sharing my leetcode progress
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2104-sum-of-subarray-ranges) |
+| [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ In this repository I will be sharing my leetcode progress
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -86,6 +88,7 @@ In this repository I will be sharing my leetcode progress
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2073-time-needed-to-buy-tickets) |
+| [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -361,4 +364,12 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
