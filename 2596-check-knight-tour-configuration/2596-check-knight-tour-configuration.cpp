@@ -5,18 +5,79 @@ public:
             return false;
         }
         int n=grid.size();
-        vector<pair<int,int>>x(n*n);
+        int m=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                x[grid[i][j]]={i,j};
+                m=max(m,grid[i][j]);
             }
         }
-        for(int i=1;i<n*n;i++){
-            int rdiff=abs(x[i].first-x[i-1].first);
-            int cdiff = abs(x[i].second - x[i - 1].second);
-            if(!(rdiff==2&& cdiff==1)&&!(rdiff=1 && cdiff==2)){
+        for(int i=0;i<n;i++){
+          for(int j=0;j<n;j++){
+            if(grid[i][j]==m) {
+                continue;
+            }
+             int c=grid[i][j];
+             bool x=false;
+             if(i+2<n){
+                if(j>0){
+                    if(grid[i+2][j-1]==c+1){
+                        x=true;
+                        continue;
+                    }
+                }
+                if(j<n-1){
+                    if(grid[i+2][j+1]==c+1){
+                        x=true;
+                        continue;
+                    }
+                }
+            }
+            if(i-2>=0){
+                if(j>0){
+                    if(grid[i-2][j-1]==c+1){
+                        x=true;
+                        continue;
+                    }
+                }
+                if(j<n-1){
+                    if(grid[i-2][j+1]==c+1){
+                        x=true;
+                        continue;
+                    }
+                }
+            }
+            if(j-2>=0){
+               if(i>0){
+                    if(grid[i-1][j-2]==c+1){
+                        x=true;
+                        continue;
+                    }
+                }
+                if(i<n-1){
+                    if(grid[i+1][j-2]==c+1){
+                        x=true;
+                        continue;
+                    }
+                }
+            }
+            if(j+2<n){
+               if(i>0){
+                    if(grid[i-1][j+2]==c+1){
+                        x=true;
+                        continue;
+                    }
+                }
+                if(i<n-1){
+                    if(grid[i+1][j+2]==c+1){
+                        x=true;
+                        continue;
+                    }
+                }
+            }
+            if(x==false){
                 return false;
             }
+          }
         }
         return true;
     }
