@@ -94,6 +94,7 @@ In this repository I will be sharing my leetcode progress
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0138-copy-list-with-random-pointer) |
@@ -117,6 +118,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -157,6 +159,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
