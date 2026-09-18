@@ -131,6 +131,7 @@ In this repository I will be sharing my leetcode progress
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0779-k-th-symbol-in-grammar) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -247,6 +248,7 @@ In this repository I will be sharing my leetcode progress
 | [0260-single-number-iii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0779-k-th-symbol-in-grammar) |
+| [1486-xor-operation-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
