@@ -218,6 +218,7 @@ In this repository I will be sharing my leetcode progress
 | [0071-simplify-path](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -384,6 +385,7 @@ In this repository I will be sharing my leetcode progress
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -401,9 +403,11 @@ In this repository I will be sharing my leetcode progress
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
