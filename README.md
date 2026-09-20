@@ -11,6 +11,7 @@ In this repository I will be sharing my leetcode progress
 | [0027-remove-element](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -98,6 +100,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0012-integer-to-roman](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
@@ -298,6 +301,7 @@ In this repository I will be sharing my leetcode progress
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0046-permutations) |
@@ -384,4 +388,12 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
