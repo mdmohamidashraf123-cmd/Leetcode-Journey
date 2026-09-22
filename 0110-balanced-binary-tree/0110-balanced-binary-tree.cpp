@@ -11,20 +11,26 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root,bool& f){
+    //Optimal Approach
+    int height(TreeNode* root){
         if(!root){
             return 0;
         }
-        int d=height(root->left,f);
-        int e=height(root->right,f);
+        int d=height(root->left);
+        if(d==-1){
+            return d;
+        }
+        int e=height(root->right);
+        if(e==-1){
+            return -1;
+        }
         if(abs(d-e)>1){
-            f=false;
+            return -1;
         }
         return 1+ max(d,e);
     }
     bool isBalanced(TreeNode* root) {
-        bool f=true;
-        int x=height(root,f);
-        return f;
+        int x=height(root);
+        return x!=-1;
     }
 };
