@@ -386,6 +386,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -404,10 +405,12 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
