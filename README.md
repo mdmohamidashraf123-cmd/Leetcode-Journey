@@ -28,6 +28,7 @@ In this repository I will be sharing my leetcode progress
 | [0084-largest-rectangle-in-histogram](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -83,6 +84,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
@@ -102,6 +104,7 @@ In this repository I will be sharing my leetcode progress
 | [0036-valid-sudoku](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -405,12 +408,14 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
