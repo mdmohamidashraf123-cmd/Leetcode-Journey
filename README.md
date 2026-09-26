@@ -272,6 +272,7 @@ In this repository I will be sharing my leetcode progress
 | [0042-trapping-rain-water](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -393,6 +394,7 @@ In this repository I will be sharing my leetcode progress
 | [0094-binary-tree-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -414,6 +416,7 @@ In this repository I will be sharing my leetcode progress
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -422,5 +425,10 @@ In this repository I will be sharing my leetcode progress
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
