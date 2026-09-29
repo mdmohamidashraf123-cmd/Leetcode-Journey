@@ -15,34 +15,35 @@ public:
         if(!root){
             return true;
         }
-        vector<int>inorder;
+        bool c=true;
+        //Check if inorder is sorted
+        TreeNode* prev=nullptr;
         TreeNode* temp=root;
         while(temp){
            if(!temp->left){
-              inorder.push_back(temp->val);
+              if(prev && prev->val>=temp->val){
+                c=false;
+              }
+              prev=temp;
               temp=temp->right;
            }else{
-            TreeNode* prev=temp->left;
-            while(prev->right && prev->right !=temp){
-                prev=prev->right;
+            TreeNode* pent=temp->left;
+            while(pent->right && pent->right !=temp){
+                pent=pent->right;
             }
-            if(!prev->right){
-                prev->right=temp;
+            if(!pent->right){
+                pent->right=temp;
                 temp=temp->left;
             }else{
-                inorder.push_back(temp->val);
+                if(prev && prev->val>=temp->val){
+                 c= false;
+                }
+                prev=temp;
                 temp=temp->right;
-                prev->right=nullptr;
+                pent->right=nullptr;
             }
            }
         } 
-        //Check if inorder is sorted
-        int n=inorder.size();
-      for(int i=0;i<n-1;i++){
-           if(!(inorder[i]<inorder[i+1])){
-            return false;
-           }
-      }
-      return true;
+      return c;
     }
 };
