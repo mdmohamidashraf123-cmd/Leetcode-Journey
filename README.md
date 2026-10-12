@@ -400,11 +400,13 @@ In this repository I will be sharing my leetcode progress
 | [0144-binary-tree-preorder-traversal](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0785-is-graph-bipartite](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [2596-check-knight-tour-configuration](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Algorithm X
 |  |
@@ -460,6 +462,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -468,4 +471,16 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
