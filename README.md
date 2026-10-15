@@ -274,6 +274,7 @@ In this repository I will be sharing my leetcode progress
 | [0085-maximal-rectangle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
 | ------- |
@@ -463,10 +464,12 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0207-course-schedule](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0207-course-schedule) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -483,4 +486,12 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
