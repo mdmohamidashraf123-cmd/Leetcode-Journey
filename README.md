@@ -129,6 +129,7 @@ In this repository I will be sharing my leetcode progress
 | [0012-integer-to-roman](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0231-power-of-two) |
@@ -271,6 +272,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
@@ -297,6 +299,7 @@ In this repository I will be sharing my leetcode progress
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
