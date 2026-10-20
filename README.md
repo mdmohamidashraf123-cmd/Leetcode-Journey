@@ -39,6 +39,7 @@ In this repository I will be sharing my leetcode progress
 | [0260-single-number-iii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
@@ -276,6 +277,7 @@ In this repository I will be sharing my leetcode progress
 | [0070-climbing-stairs](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -503,9 +505,11 @@ In this repository I will be sharing my leetcode progress
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
