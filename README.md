@@ -49,6 +49,7 @@ In this repository I will be sharing my leetcode progress
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1019-next-greater-node-in-linked-list) |
+| [1049-last-stone-weight-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1472-design-browser-history](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1472-design-browser-history) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -280,6 +281,7 @@ In this repository I will be sharing my leetcode progress
 | [0416-partition-equal-subset-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [1049-last-stone-weight-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
@@ -507,9 +509,11 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
