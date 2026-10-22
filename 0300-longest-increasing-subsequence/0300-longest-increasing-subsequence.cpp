@@ -1,20 +1,17 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        //using DP-tabulation
-        //Space Optimized
+        //Using Binary Search-lower Bound Optimal Solution
         int n=nums.size();
-        vector<int>dp(n+1,0);
-        for(int i=n-1;i>=0;i--){
-            for(int j=-1;j<n;j++){
-                int take=0;
-                if(j==-1||(nums[j]<nums[i])){
-                    take=dp[i+1]+1;
-                }
-                int skip=dp[j+1];
-                dp[j+1]=max(take,skip);
+        vector<int>ans;
+        for(int i=0;i<n;i++){
+            if(ans.empty()||ans.back()<nums[i]){
+                ans.push_back(nums[i]);
+            }else{
+                int c=lower_bound(ans.begin(),ans.end(),nums[i])-ans.begin();
+                ans[c]=nums[i];
             }
         }
-        return dp[0];
+        return ans.size();
     }
 };
