@@ -195,6 +195,7 @@ In this repository I will be sharing my leetcode progress
 | [0443-string-compression](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -285,6 +286,7 @@ In this repository I will be sharing my leetcode progress
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1049-last-stone-weight-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
@@ -523,4 +525,8 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
