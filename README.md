@@ -180,6 +180,7 @@ In this repository I will be sharing my leetcode progress
 | [0020-valid-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0165-compare-version-numbers) |
@@ -279,6 +280,7 @@ In this repository I will be sharing my leetcode progress
 | [0042-trapping-rain-water](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
