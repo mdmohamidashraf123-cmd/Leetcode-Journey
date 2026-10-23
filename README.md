@@ -194,6 +194,7 @@ In this repository I will be sharing my leetcode progress
 | [0402-remove-k-digits](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
@@ -287,6 +288,7 @@ In this repository I will be sharing my leetcode progress
 | [0416-partition-equal-subset-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
