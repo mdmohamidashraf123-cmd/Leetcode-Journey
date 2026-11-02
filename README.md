@@ -47,6 +47,7 @@ In this repository I will be sharing my leetcode progress
 | [0496-next-greater-element-i](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0546-remove-boxes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0546-remove-boxes) |
 | [0735-asteroid-collision](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0735-asteroid-collision) |
 | [0817-linked-list-components](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -296,6 +297,7 @@ In this repository I will be sharing my leetcode progress
 | [0494-target-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0516-longest-palindromic-subsequence) |
+| [0546-remove-boxes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0546-remove-boxes) |
 | [0931-minimum-falling-path-sum](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
@@ -324,6 +326,7 @@ In this repository I will be sharing my leetcode progress
 | ------- |
 | [0070-climbing-stairs](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0546-remove-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
