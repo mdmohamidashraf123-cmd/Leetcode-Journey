@@ -189,6 +189,7 @@ In this repository I will be sharing my leetcode progress
 | [0014-longest-common-prefix](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0125-valid-palindrome) |
@@ -263,6 +264,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0402-remove-k-digits) |
@@ -290,6 +292,7 @@ In this repository I will be sharing my leetcode progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0072-edit-distance) |
@@ -318,6 +321,7 @@ In this repository I will be sharing my leetcode progress
 | [0021-merge-two-sorted-lists](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mdmohamidashraf123-cmd/Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
